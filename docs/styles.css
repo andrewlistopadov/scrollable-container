@@ -6,7 +6,6 @@
 .horizontally-scrollable-container {
   border: 2px solid #e3e0cf;
   display: flex;
-  flex-wrap: nowrap;
   margin-bottom: 20px;
   overflow-x: scroll;
 }
